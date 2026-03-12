@@ -159,5 +159,5 @@ java -jar paicoding-web/target/paicoding-web-1.0.0.jar
 
 ## 项目地址
 
-- GitHub: [https://github.com/Newbie-Role/paicoding](https://github.com/NewbieRole/paicoding)
+- GitHub: [https://github.com/Newbie-Role/paicoding](https://github.com/Newbie-Role/paicoding)
 
